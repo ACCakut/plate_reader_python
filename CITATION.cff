@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: plate_reader_python
+message: >-
+  If you use this software and find it useful, please cite
+  it using the metadata from this file or one of my related
+  publications.
+type: software
+authors:
+  - given-names: Philipp Julian Wolfgang
+    family-names: Hintz
+    email: philipp.hintz@uni-koeln.de
+    affiliation: University of Cologne
+    orcid: 'https://orcid.org/0009-0005-5189-6470'
+repository-code: 'https://github.com/ACCakut/plate_reader_python'
+license: CC0-1.0
